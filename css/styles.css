@@ -1,0 +1,130 @@
+h2 {
+  font-family: 'Russo One', sans-serif;
+}
+h3 {
+  padding-bottom: 20px;
+  font-family: 'Russo One', sans-serif;
+}
+
+hr {
+  border-style: dashed;
+  border-bottom: none;
+  border-width: 10px;
+  border-color: #0d335d;
+  width: 30%;
+}
+#title {
+  background-color: #0d335d;
+  color:white;
+  font-family: 'Russo One', sans-serif;
+}
+
+/* Navigation Bar */
+.nav-image{
+  width:12%;
+  margin-right: 2%;
+}
+.nav-item {
+  margin: 0 10px;
+}
+
+/* Title Things */
+.title-image {
+  width: 200px;
+  transform: rotate(-30deg);
+  margin: 5% 3% 5% 3%;
+}
+.title-image-two {
+  width: 200px;
+  transform: rotate(20deg);
+  margin-top: 3%;
+}
+.container-fluid {
+  padding-bottom: 5rem;
+}
+.img-title {
+  margin: 10% 0 0 0;
+}
+
+/* Frequently Viewed Blogs */
+#blogs-for-you {
+  padding: 5% 5%;
+}
+.blogs-title{
+  text-align: center;
+  padding-bottom: 5%;
+}
+.mando-image {
+  width: 80%;
+  padding-bottom: 10%;
+}
+.mando-button {
+  margin-top: 10px;
+  margin-left: 28%;
+}
+.clone-image {
+  width: 80%;
+  padding-bottom: 4%;
+}
+.clone-button {
+  margin-left: 28%;
+}
+.forceawake-image {
+  width: 80%;
+  padding-bottom: 7%;
+}
+.forceawake-button {
+  margin-left: 28%;
+}
+.rouge-image {
+  width: 80%;
+  padding-bottom: 13%;
+}
+.rouge-button {
+  margin-left: 28%;
+}
+
+/* About Me */
+#About-Me {
+  padding: 0 5%;
+}
+.aboutme-title {
+  padding-top: 5%;
+}
+.aboutme-column {
+  text-align: center;
+}
+.aboutme {
+  padding: 10% 10%;
+}
+.millennium-image {
+  float: left;
+  width: 50%;
+}
+.aboutme-row {
+  margin: 100px 0 100px 0;
+  text-align: left;
+  line-height: 2;
+}
+
+/* Footer */
+#footer {
+  background-color: #0d335d;
+  padding: 5% 0 1% 0;
+}
+.footer-p {
+  position:relative;
+  margin: 200px 0 10px 0;
+  text-align: center;
+  color: white;
+}
+.foot-row {
+  position: relative;
+  text-align: center;
+  top: 8rem;
+  color: white;
+}
+.contact-icon {
+  position: relative;
+  margin-right: 30px;
+}
